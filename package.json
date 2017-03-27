@@ -1,0 +1,9 @@
+{
+  "name": "file-transfer",
+  "version": "1.0.0",
+  "description": "A simple client-server model for sending files.",
+  "main": "main.js",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
